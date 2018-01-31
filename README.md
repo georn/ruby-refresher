@@ -1,4 +1,4 @@
-## Ruby Refresher [![Build Status](https://travis-ci.org/georn/ruby-refresher.svg?branch=master)](https://travis-ci.org/georn/ruby-refresher) ![Coverage Status](https://coveralls.io/repos/github/georn/ruby-refresher/badge.svg?branch=master)](https://coveralls.io/github/georn/ruby-refresher?branch=master)
+## Ruby Refresher [![Build Status](https://travis-ci.org/georn/ruby-refresher.svg?branch=master)](https://travis-ci.org/georn/ruby-refresher) ![Coverage Status](https://coveralls.io/repos/github/georn/ruby-refresher/badge.svg?branch=master)
 
 Here we're going to revisit the basics of Ruby. There are 41 questions - you don't have to do every single one (although if you can, that's great). You should be able to do at least 50% of them. They vary in level from quite easy to fairly hard. Work through them and check if they're correct by running the specs.
 
